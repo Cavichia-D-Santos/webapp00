@@ -18,5 +18,5 @@ st.subheader("Amo carros de verdade mesmo")
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Texto interessante sobre carros muito interessantes.")
 
-values = st.slider("Select a range of values", 0.0, 80.0, (75.0, 90.0))
+values = st.slider("Select a range of values", 0.0, 100.0, (75.0, 90.0))
 st.write("Values:", values)
