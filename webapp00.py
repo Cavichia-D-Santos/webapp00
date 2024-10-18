@@ -13,7 +13,7 @@ st.title("CARROS TURBINADOS")
 st.header("Para amantes de carros")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
-st.subheader("Sub Cabeçalho")
+st.subheader("Amo carros de verdade mesmo")
 
 # Use st.write("") para adicionar um texto ao seu Web app
 st.write("Texto interessante sobre carros muito interessantes.")
